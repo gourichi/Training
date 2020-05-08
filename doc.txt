@@ -4,3 +4,6 @@ I am trying to check the status after adding this text.
 
 
 Adding text for more commit trials.
+
+
+third commit message.
