@@ -1,0 +1,6 @@
+This is the first file.
+
+I am trying to check the status after adding this text.
+
+
+Adding text for more commit trials.
